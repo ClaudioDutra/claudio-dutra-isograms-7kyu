@@ -18,7 +18,7 @@ TODO:
 
 ## Pomodoro 1  
 
-- [ ] Create empty function called `isIsogram`.
-- [ ] Create the unit test to check that function.
+- [X] Create empty function called `isIsogram`.
+- [X] Create the unit test to check that function.
 - [ ] Implement the function `isIsogram`.
 - [ ] refactor the function implementation.

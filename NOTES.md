@@ -20,5 +20,5 @@ TODO:
 
 - [X] Create empty function called `isIsogram`.
 - [X] Create the unit test to check that function.
-- [ ] Implement the function `isIsogram`.
+- [X] Implement the function `isIsogram`.
 - [ ] refactor the function implementation.
